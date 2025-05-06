@@ -72,8 +72,10 @@ The Guesthouse Website is a modern, responsive, and visually appealing web appli
 ---
 
 ## 📷 Screenshots
+![rrrr](https://github.com/user-attachments/assets/2b7b968b-f839-4885-84ff-b352bcf40b27)
+![rrr1](https://github.com/user-attachments/assets/ba6ae65c-927d-4c67-942f-bf295ed0c93f)
+![rrr2](https://github.com/user-attachments/assets/4aa5f22e-be04-43f8-bfab-4993e5cd09bf)
 
-*(You can upload screenshots of the live site here to showcase each section)*
 
 ---
 
